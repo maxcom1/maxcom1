@@ -1,4 +1,14 @@
-### Hi there 👋
+**👋 Hi there**  
+🌍 I am a being living on planet Earth.
+
+☕ The programming language I like the most is Java.  
+🔌 I like to write plugins for bukkit,  
+🤖 write bots for different platforms  
+🖥️ and experiment with artificial intelligence.
+
+📨 You can contact me on discord: [maxcom1#0988](https://discord.com/users/440129212414951425)
+
+
 
 <!--
 **maxcom1/maxcom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
