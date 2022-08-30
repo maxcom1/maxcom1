@@ -1,6 +1,6 @@
 <h3 align="center"><b>👋 Hi there</b><br></h3>
   <p align="center">
-🌍 I am a being living on planet named Earth.<br>
+🌍 I am a being living on planet called Earth.<br>
 <br>
 ☕ The programming language I like the most is Java.  <br>
 🔌 I like to write plugins for bukkit,  <br>
