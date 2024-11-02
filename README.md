@@ -7,7 +7,7 @@
 🤖 write bots for different platforms  <br>
 🖥️ and experiment with artificial intelligence.<br>
 <br>
-  📨 You can contact me on discord: <a href="https://discord.com/users/440129212414951425">maxcom1#0988</a>
+  📨 You can contact me on discord: <a href="https://discord.com/users/440129212414951425">@maxcom1</a>
   </p>
   
 <!--
